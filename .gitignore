@@ -1,7 +1,9 @@
 venv/
 .venv/
 __pycache__/
-.git/
+node_modules/
+.next/
 .env
 .env.*
+!.env.example
 *.log
